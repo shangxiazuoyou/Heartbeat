@@ -1,4 +1,4 @@
-package com.clownjee.heartbeat;
+package com.ghizzoniandrea.heartbeat;
 
 import android.os.Handler;
 import android.os.Looper;

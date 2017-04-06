@@ -1,9 +1,9 @@
-package com.clownjee.heartbeat;
+package com.ghizzoniandrea.heartbeat;
 
 import android.databinding.DataBindingUtil;
+import android.os.Bundle;
 import android.os.Looper;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 import com.clownjee.heartbeat.databinding.ActivityMainBinding;
 
